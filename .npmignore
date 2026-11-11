@@ -1,0 +1,12 @@
+node_modules/
+coverage/
+*.log
+npm-debug.log*
+tests/
+src/
+tsconfig.json
+tsdown.config.ts
+vitest.config.ts
+eslint.config.mjs
+.eslintrc*
+package-lock.json
